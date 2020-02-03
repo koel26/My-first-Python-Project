@@ -21,3 +21,4 @@ for s in sums:
       print(result)
 z: int= 4 + 5
 print(z)
+
